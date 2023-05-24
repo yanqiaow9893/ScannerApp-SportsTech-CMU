@@ -1,1 +1,4 @@
 # ScannerApp-SportsTech-CMU
+The idea of the project is inspired by the Pokemon Go and treasure hunt game. Our team intend to design an augmented reality application, similar to Pokemon Go, to do treasure hunting around the Super Bowl stadium. A certain amount of coupons for food/sponsorship or team related accessories/shirts are hidden in different places in the stadium. Everyone has a chance to find at most 4 coupons and can use the coupons when purchasing food in the stadium or later purchasing merchandises on the official website of corresponding teams.
+
+The APP is developed in Unity for multuple platform, specifically iOS and Android. The final demo achieved the state of multiple QR Code scanning around the pillars of BHA51, and the user can switch between pages to see their collections of coupons.
